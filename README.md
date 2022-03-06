@@ -15,7 +15,7 @@
 
 ## 🚀 Your Mission
 
-- 이 저장소에 이슈를 등록합니다.
+- 이 저장소에 Issue를 등록합니다.
 - 이 저장소를 Fork 하고 자신의 소원을 작성한 파일을 추가한 뒤 이슈에 연결하여 PR을 보냅니다.
 - PR 승인 결과를 확인합니다.
 
@@ -53,7 +53,7 @@ $ git push origin --delete prbranch
 
 ## 🤝 Contributing
 
-이슈 내용은 [이슈 템플릿](docs/ISSUE-TEMPLATE.md)를, PR 내용은 [PR 템플릿](docs/PULL-REQUEST-TEMPLATE.md)를 참고해주세요.
+이슈 내용은 [이슈 템플릿](docs/ISSUE_TEMPLATE.md)를, PR 내용은 [PR 템플릿](docs/PULL_REQUEST_TEMPLATE.md)를 참고해주세요.
 
 ## 💪🏻 Supports
 
