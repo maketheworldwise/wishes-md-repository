@@ -32,7 +32,7 @@
 $ git clone https://github.com/YOUR_FORK_USERNAME/YOUR_FORK.git
 
 # 3. Clone한 로컬 저장소에 PR을 보낼 원본 원격 저장소(origin) 설정
-$ git remote add origin https://github.com/maketheworldwise/wishes-md-repository
+$ git remote add upstream https://github.com/maketheworldwise/wishes-md-repository
 
 # 4. 로컬 저장소에 PR용 새로운 브랜치 생성 및 이동
 $ git checkout -b prbranch
