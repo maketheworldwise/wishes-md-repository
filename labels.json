@@ -1,0 +1,17 @@
+[
+    {
+        "name": "🔥 Issue",
+        "color": "f7838d",
+        "description": "새로운 이슈 추가"
+    },
+    {
+        "name": "👍 Good first issue",
+        "color": "98caa3",
+        "description": "좋은 첫 번째 이슈"
+    },
+    {
+        "name": "🙆🏻‍♂️ PR Expected",
+        "color": "01cc92",
+        "description": "PR 예정"
+    }
+]
